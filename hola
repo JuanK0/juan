@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximun-scale=1.0, minimum-scale=1.0">
+    <title>Mi sitio web (Listas)</title>
+  </head>
+  <body>
+
+    <h1>Mi sitio web</h1>
+
+    <!--Listas-->
+    <h2>OL (ORDER LIST)</h2>
+
+    <ol>
+      <li>Carnívoros</li>
+      <ul>
+        <li>León</li>
+        <li>Tigre</li>
+      </ul>
+      <li>Hervíboros</li>
+      <ul>
+        <li>Elefante</li>
+        <li>Vaca</li>
+        <li>Jirafa</li>
+      </ul>
+      <li>Omnívoros</li>
+      <ul>
+        <li>Gallina</li>
+        <li>Pato</li>
+      </ul>
+    </ol>
+
+    <h2>UL (UNORDER LIST)</h2>
+
+    <ul>
+      <li>Carnívoros</li>
+      <li>Hervíboros</li>
+      <li>Omnívoros</li>
+    </ul>
+
+    <h2>DL (DEFINITION LIST)</h2>
+
+    <dl>
+
+      <dt>Caballo de mar</dt>
+      <dd>Los caballitos de mar o hipocampos (género Hippocampus), constituyen un grupo de peces marinos pertenecientes a la familia Syngnathidae, que también incluye a los peces pipa.
+
+        Su etimología procede de la combinación de los dos términos en griego clásico ίππος (hippos, que significa "caballo"), por el peculiar parecido que presenta su cabeza con la de los caballos, y kampos ("monstruo de mar"). </dd>
+
+    </dl>
+
+  </body>
+</html>
